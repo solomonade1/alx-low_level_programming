@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -7,7 +8,7 @@
  * it executes, and prints it
  * Return: Always 0 (Success)
  */
-int main(void)
+int positive_or_negative(void)
 {
 	int n;
 
