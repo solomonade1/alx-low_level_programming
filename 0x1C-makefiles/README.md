@@ -4,7 +4,7 @@
 ## Table of contents
 ---
 | Files | Description |
-| :---: | :---:       |
+| :---: | ---       |
 |[0-Makefile](https://github.com/solomonade1/alx-low_level_programming/blob/master/0x1C-makefiles/0-Makefile)| First Makefile|
 |[1-Makefile](https://github.com/solomonade1/alx-low_level_programming/blob/master/0x1C-makefiles/1-Makefile) | Makefile based on the previous one |
 |[2-Makefile](https://github.com/solomonade1/alx-low_level_programming/blob/master/0x1C-makefiles/2-Makefile) | Makefile based on the previous one |
